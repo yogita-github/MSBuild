@@ -1,0 +1,14 @@
+C:\Users\yogitam\source\repos\FirstCiCdMsBuild\FirstCiCdMsBuild\bin\Debug\net8.0\FirstCiCdMsBuild.exe
+C:\Users\yogitam\source\repos\FirstCiCdMsBuild\FirstCiCdMsBuild\bin\Debug\net8.0\FirstCiCdMsBuild.deps.json
+C:\Users\yogitam\source\repos\FirstCiCdMsBuild\FirstCiCdMsBuild\bin\Debug\net8.0\FirstCiCdMsBuild.runtimeconfig.json
+C:\Users\yogitam\source\repos\FirstCiCdMsBuild\FirstCiCdMsBuild\bin\Debug\net8.0\FirstCiCdMsBuild.dll
+C:\Users\yogitam\source\repos\FirstCiCdMsBuild\FirstCiCdMsBuild\bin\Debug\net8.0\FirstCiCdMsBuild.pdb
+C:\Users\yogitam\source\repos\FirstCiCdMsBuild\FirstCiCdMsBuild\obj\Debug\net8.0\FirstCiCdMsBuild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yogitam\source\repos\FirstCiCdMsBuild\FirstCiCdMsBuild\obj\Debug\net8.0\FirstCiCdMsBuild.AssemblyInfoInputs.cache
+C:\Users\yogitam\source\repos\FirstCiCdMsBuild\FirstCiCdMsBuild\obj\Debug\net8.0\FirstCiCdMsBuild.AssemblyInfo.cs
+C:\Users\yogitam\source\repos\FirstCiCdMsBuild\FirstCiCdMsBuild\obj\Debug\net8.0\FirstCiCdMsBuild.csproj.CoreCompileInputs.cache
+C:\Users\yogitam\source\repos\FirstCiCdMsBuild\FirstCiCdMsBuild\obj\Debug\net8.0\FirstCiCdMsBuild.dll
+C:\Users\yogitam\source\repos\FirstCiCdMsBuild\FirstCiCdMsBuild\obj\Debug\net8.0\refint\FirstCiCdMsBuild.dll
+C:\Users\yogitam\source\repos\FirstCiCdMsBuild\FirstCiCdMsBuild\obj\Debug\net8.0\FirstCiCdMsBuild.pdb
+C:\Users\yogitam\source\repos\FirstCiCdMsBuild\FirstCiCdMsBuild\obj\Debug\net8.0\FirstCiCdMsBuild.genruntimeconfig.cache
+C:\Users\yogitam\source\repos\FirstCiCdMsBuild\FirstCiCdMsBuild\obj\Debug\net8.0\ref\FirstCiCdMsBuild.dll
